@@ -43,6 +43,8 @@
 12.我的模块中的蓝牙设置打开后重新再进入这个界面，却已经是关闭状态。
 13.我的模块关于界面点击服务器地址一栏，智能家居云和音箱服务端任意组合点击确定按钮，应用闪退。
 
+Git is a distributed version control system.
+Git is free software.
 
 
 
