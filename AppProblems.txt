@@ -44,7 +44,7 @@
 13.我的模块关于界面点击服务器地址一栏，智能家居云和音箱服务端任意组合点击确定按钮，应用闪退。
 
 Git is a distributed version control system.
-Git is free software.
+Git is free software distributed under the GPL.
 I love using git, Beause it's a very powerful verson control system tool!
 
 
