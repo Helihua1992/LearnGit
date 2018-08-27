@@ -5,7 +5,7 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Learn Git without regrets.
 Creating a new branch is quick and simple.
-I am learning git branch management strategy, because it's useful.
+I am learning Git branch management strategy, because it's useful.
 
 
 
