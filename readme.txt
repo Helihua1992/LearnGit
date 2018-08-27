@@ -10,7 +10,6 @@ I am learning Git branch management strategy, because it's useful.
 
 
 
-
                                
 
 
