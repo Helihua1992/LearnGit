@@ -8,6 +8,7 @@ Creating a new branch is quick and simple.
 I am learning Git branch management strategy, because it's useful.
 I like Git.
 I think you do your best to learn Git.
+I think we should understand our knowledge learned deeply.
 
 
                                
